@@ -1,4 +1,4 @@
-# Project7-Tic-Tac-Toe
+# Tic-Tac-Toe
 ## Tic-Tac-Toe Game App
 
 ### Made By : Ahmad Mughrabi
@@ -7,7 +7,7 @@
 https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe#assignment
 
 ### Website Page
-https://9amtech.github.io/Project7-Tic-Tac-Toe/
+https://9amtech.github.io/Tic-Tac-Toe/
 
 #### Description
 This app was a project to demonstrate the ability to use the Javascript module pattern to make 
